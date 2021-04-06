@@ -3,7 +3,7 @@ package kr.ac.kopo.Algorithm.study;
 import java.util.Scanner;
 
 public class GCDUtil {
-
+	//3번 문제 최대공약수
 	public static int GCD(int num, int num2) {
 		
 		if(num < num2) {

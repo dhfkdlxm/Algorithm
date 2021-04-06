@@ -3,7 +3,7 @@ package kr.ac.kopo.Algorithm.study;
 import java.util.Scanner;
 
 public class Prob1 {
-
+	// 4번 입력받은 점수 평균 출력
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int count = 0;

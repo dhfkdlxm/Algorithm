@@ -41,7 +41,7 @@ public class Student {
 	}
 
 	public void print() {
-		System.out.println("이  름 : " + name + "\t나  이 :" + age + "\t학  번 : " + id );
+		System.out.println("이  름 : " + name + "\t나  이 : " + age + "\t학  번 : " + id );
 	}
 
 }
